@@ -49,11 +49,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevAwai&show_icons=true&theme=radical" alt="stats"/>
-</p>
-
 <h3 align="center">🚀 Top Languages:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAwai&layout=compact&theme=radical" alt="top langs"/>
