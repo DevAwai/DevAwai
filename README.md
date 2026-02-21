@@ -16,61 +16,6 @@
 
 ---
 
-<div align="center">
-
-```
- █████╗ ██╗    ██╗ █████╗ ██╗
-██╔══██╗██║    ██║██╔══██╗██║
-███████║██║ █╗ ██║███████║██║
-██╔══██║██║███╗██║██╔══██║██║
-██║  ██║╚███╔███╔╝██║  ██║██║
-╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝
-```
-
-</div>
-
-```ts
-// ┌─[ IDENTITY MATRIX ]──────────────────────────────────────┐
-
-const AWAI = {
-  location : "France 🇫🇷",
-  role     : "Fullstack Developer",
-  building : ["FiveM Servers 🕹️", "Web Applications 🌐"],
-  stack    : ["Lua", "TypeScript", "React", "Node.js", "Next.js"],
-  status   : "⚡ Always shipping something new",
-  motto    : "Ship it. Refine it. Repeat.",
-} satisfies Developer;
-
-// └──────────────────────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-### ◈ &nbsp; T E C H &nbsp; A R S E N A L &nbsp; ◈
-
-<br/>
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=lua,ts,js,cs,python&theme=dark&perline=5" />
-
-<br/><br/>
-
-**Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,bootstrap&theme=dark&perline=5" />
-
-<br/><br/>
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,mysql&theme=dark&perline=6" />
-
-</div>
-
----
 
 ## 📊 &nbsp; G I T H U B &nbsp; S T A T S
 
@@ -92,26 +37,6 @@ const AWAI = {
 
 ---
 
-## 🏆 &nbsp; T R O P H I E S
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevAwai&theme=discord&no-frame=false&no-bg=true&column=7&margin-w=10" width="95%"/>
-</div>
-
----
-
-## 🐍 &nbsp; C O N T R I B U T I O N S &nbsp; S N A K E
-
-<div align="center">
-
-> ⚠️ Ce bloc nécessite l'action GitHub `Platane/snk` configurée sur ton repo `DevAwai/DevAwai`
-> — [Guide de configuration ici](https://github.com/Platane/snk)
-
-<img src="https://raw.githubusercontent.com/DevAwai/DevAwai/output/github-snake-dark.svg" width="85%" alt="contribution snake"/>
-
-</div>
-
----
 
 ## 🌐 &nbsp; C O N N E C T
 
@@ -128,9 +53,9 @@ const AWAI = {
 <br/>
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  > "The best way to predict the future is to create it." 🚀  ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  > "I don’t always test my code… but when I do, I do it in production." 🚀   ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0010,30:4a0e8f,60:9125E6,100:0d0010&height=120&section=footer&animation=twinkling" width="100%"/>
