@@ -1,188 +1,76 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:1f6feb&height=220&section=header&text=AWAI&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Fullstack%20Developer%20•%20France%20🇫🇷&descSize=18&descAlignY=55&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:00ffcc,100:000000&height=200&section=header&text=AWAI&fontSize=90&fontColor=00ffcc&fontAlignY=50&animation=twinkling&stroke=00ffcc&strokeWidth=2" width="100%"/>
 
-<!-- TYPING ANIMATION -->
+</div>
+
+<div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+Welcome+to+my+digital+universe+🌌;%3E+Building+the+future%2C+one+commit+at+a+time+🚀;%3E+Code+%7C+Create+%7C+Innovate+⚡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2500&pause=800&color=00FFCC&center=true&vCenter=true&width=500&height=60&lines=_+Fullstack+Developer+%2F+France+%F0%9F%87%AB%F0%9F%87%B7;_+FiveM+%7C+Web+%7C+UI%2FUX;_+Shipping+clean+code+since+day+one." alt="Typing SVG" />
 </a>
-
-<br/>
-
-<!-- PROFILE VIEWS & FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=DevAwai&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-<a href="https://github.com/DevAwai?tab=followers">
-  <img src="https://img.shields.io/github/followers/DevAwai?style=for-the-badge&color=1f6feb&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
-</a>
-
 </div>
 
-<!-- ABOUT SECTION -->
-<br/>
+---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
-</div>
-
-<br/>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
-
-```js
-const awai = {
-    location: "France 🇫🇷",
-    role: "Fullstack Developer",
-    currentFocus: ["FiveM Development 🕹️", "Web Applications 🌐"],
-    learning: ["Lua", "React ⚛️", "TypeScript", "Node.js"],
-    passions: ["Clean Code", "Gaming Servers", "UI/UX Design"],
-    funFact: "I debug with console.log and I'm not ashamed �"
-};
+```ts
+// [ SYSTEM ONLINE ] ─────────────────────────────────────────
+const AWAI = {
+  os:       "Human v1.0 — France 🇫🇷",
+  stack:    ["Lua", "TypeScript", "React", "Node.js", "Next.js"],
+  building: "FiveM servers & sleek web apps",
+  motto:    "Ship it. Refine it. Repeat.",
+} satisfies Developer;
+// ────────────────────────────────────────────────────────────
 ```
 
-<br/>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-🔭 **Currently working on** — FiveM Projects  
-🌱 **Learning** — Lua, React & TypeScript  
-💬 **Ask me about** — Web Dev & Game Servers  
-⚡ **Fun fact** — Code is poetry in logic
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DevAwai&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=6e40c9&icon_color=6e40c9&title_color=6e40c9&text_color=c9d1d9&hide_border=false&count_private=true" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
-</div>
-
-<br/>
-
-## 🛠️ **Tech Arsenal**
+---
 
 <div align="center">
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=lua,js,ts,cs,html,css,python&theme=dark" />
+### ◈ STACK
 
-### ⚡ Frameworks & Libraries  
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,bootstrap,tailwind&theme=dark" />
-
-### 🔧 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=lua,ts,js,react,nextjs,nodejs,tailwind,mysql,docker,figma&theme=dark&perline=10" />
 
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
-</div>
 
-<br/>
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  
-<a href="https://github.com/DevAwai">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAwai&layout=compact&theme=github_dark&bg_color=0d1117&border_color=6e40c9&title_color=6e40c9&text_color=c9d1d9&langs_count=8&hide_border=false"/>
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAwai&theme=github-dark-blue&background=0d1117&border=6e40c9&stroke=6e40c9&ring=6e40c9&fire=1f6feb&currStreakLabel=6e40c9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="49%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevAwai&bg_color=0d1117&color=6e40c9&line=1f6feb&point=c9d1d9&area=true&area_color=6e40c9&hide_border=false&custom_title=Contribution%20Graph" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DevAwai&show_icons=true&theme=merko&bg_color=00000000&border_color=00ffcc&icon_color=00ffcc&title_color=00ffcc&text_color=c9fce8&hide_border=false&count_private=true&rank_icon=github" height="150"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAwai&layout=compact&theme=merko&bg_color=00000000&border_color=00ffcc&title_color=00ffcc&text_color=c9fce8&langs_count=6&hide_border=false" height="150"/>
 
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAwai&theme=merko&background=00000000&border=00ffcc&stroke=00ffcc&ring=00ffcc&fire=ffffff&currStreakLabel=00ffcc&sideLabels=c9fce8&currStreakNum=ffffff&sideNums=c9fce8&dates=556655" width="55%"/>
 </div>
 
-<br/>
-
-## 🏆 **GitHub Trophies**
+---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevAwai&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="95%"/>
+
+<img src="https://raw.githubusercontent.com/DevAwai/DevAwai/output/github-snake-dark.svg" width="80%"/>
+
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
-</div>
 
-<br/>
-
-## 🐍 **Contribution Snake**
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DevAwai/DevAwai/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
-</div>
-
-<br/>
-
-## 🌐 **Connect With Me**
-
-<div align="center">
-  
-<a href="https://github.com/DevAwai" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-DevAwai-00ffcc?style=flat-square&logo=github&logoColor=black&labelColor=000)](https://github.com/DevAwai)
 &nbsp;
-<a href="https://instagram.com/@dove__drd" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
-</a>
+[![Discord](https://img.shields.io/badge/Discord-Awai%239999-00ffcc?style=flat-square&logo=discord&logoColor=black&labelColor=000)](https://discord.gg/Awai)
 &nbsp;
-<a href="https://www.youtube.com/c/@awaitv" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/>
-</a>
+[![YouTube](https://img.shields.io/badge/YouTube-@awaitv-00ffcc?style=flat-square&logo=youtube&logoColor=black&labelColor=000)](https://www.youtube.com/c/@awaitv)
 &nbsp;
-<a href="https://discord.gg/Awai#9999" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/>
-</a>
-
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-@dove__drd-00ffcc?style=flat-square&logo=instagram&logoColor=black&labelColor=000)](https://instagram.com/@dove__drd)
 
 <br/>
 
-<!-- FOOTER -->
-<div align="center">
-  
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   "The best way to predict the future is to create it." 🚀  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+> `/* the best interfaces are the ones you don't notice */`
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:1f6feb&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:00ffcc,100:000000&height=80&section=footer&animation=twinkling" width="100%"/>
 
 </div>
