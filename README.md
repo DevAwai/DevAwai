@@ -16,24 +16,6 @@
 
 ---
 
-
-## 📊 &nbsp; G I T H U B &nbsp; S T A T S
-
-<div align="center">
-
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAwai&theme=midnight-purple&background=0d0010&border=9125E6&stroke=9125E6&ring=9125E6&fire=c084fc&currStreakLabel=c084fc&sideLabels=e2d9f3&currStreakNum=ffffff&sideNums=e2d9f3&dates=7c5cbf" width="60%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevAwai&bg_color=0d0010&color=9125E6&line=c084fc&point=ffffff&area=true&area_color=9125E6&hide_border=false&custom_title=%E2%97%88%20Contribution%20Graph%20%E2%97%88&radius=8" width="92%"/>
-
-</div>
-
----
-
-
 ## 🌐 &nbsp; C O N N E C T
 
 <div align="center">
